@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teez-ai
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, JS, and React
+- 👀 I’m interested in web development and low-level programming
+- 🌱 I’m currently learning JS, Python, and C++
 - 💞️ I’m looking to collaborate on some frontend development projects
 
 <!---
